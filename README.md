@@ -5,8 +5,8 @@ An attempt to develop a simple file transfer system that can transfer files betw
 This repository contains:
 
 1. Python code for [GUI](GUI.py)
-2. Python code for [sender](sender.py)
-3. Python code for [receiver](receiver.py)
+2. Python code for [Sender](Sender.py)
+3. Python code for [Receiver](Receiver.py)
 4. [ReadMe file](README.md) itself
 
 
