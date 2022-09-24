@@ -23,8 +23,8 @@ threading
 Download the following files in the same directory.
 ```
 GUI.py
-sender.py
-receiver.py
+Sender.py
+Receiver.py
 ```
 
 Run GUI.py
