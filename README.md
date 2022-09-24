@@ -1,6 +1,6 @@
 # File Transfer System
 
-An attempt to develop a simple file transfer system that can transfer files between two systems using the IP addresses provided they are connected through the same network. Socket programming in python is used for development.
+An attempt to develop a simple file transfer system that can transfer files between two systems using the IP addresses provided they are connected through the same network. Socket programming in python is used for development. Threading is added to allow the sender to send the same file to atmost 4 receivers simultaneously.
 
 This repository contains:
 
